@@ -1,0 +1,22 @@
+{
+  "wheel_id": 541,
+  "structure": "umbrella",
+  "slug": "bendigofinancebroker-108",
+  "project": "finance-broker-bendigo-eligibility-90082054d2df44054cc0deacca55",
+  "parent_t1_ref": "bendigofinancebroker-153",
+  "node_role": "feeder",
+  "money_target": "bendigofinancebroker.com.au",
+  "primary_kw": "finance broker bendigo eligibility",
+  "intended_url": "https://sites-e470-2.web.app/finance-broker-bendigo-eligibility-90082054d2df44054cc0deacca55/",
+  "tier": "T2",
+  "writeback_nonce": "2f9a06880f7f371a",
+  "links": [
+    {
+      "target_url": "http://finance-broker-bendigo-before-you-start-ea67d326899d797becb29df.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "http://finance-broker-bendigo-before-you-start-ea67d326899d797becb29df.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
